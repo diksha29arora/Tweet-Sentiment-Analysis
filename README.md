@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis
+# Tweet Sentiment Analysis
 
 The project is aimed at analyzing the sentiment of tweets using NLP and Deep Learning. 
 
